@@ -1,0 +1,10 @@
+{
+  "name": "RolandoGuerrero/plugin1",
+  "type": "library",
+  "description": "",
+  "autoload": {
+    "psr-4": {
+      "RolandoGuerrero\\Plugin1\\": "src/"
+    }
+  }
+}
