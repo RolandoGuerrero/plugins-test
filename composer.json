@@ -1,0 +1,7 @@
+{
+  "name": "RolandoGuerrero/plugins-test",
+  "type": "project",
+  "replace": {
+    "RolandoGuerrero/plugin1": "self.version"
+  }
+}
